@@ -40,7 +40,7 @@
            <h3> Black Mirror(Siyah Ayna)</h3>
         <li> Bu bilimkurgu antolojisi dizisi, insanlığın en görkemli buluşlarının ve en karanlık içgüdülerinin zıtlaştığı karmaşık ve teknolojiyle dolu bir yakın geleceği konu alıyor.</li>
             <h2> Benim favori Filmim </h2>
-            <img src = "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2019/12/28/246201-1682617389.jpg?itok=mVk1mQH1" alt = " Back to the future(Geleceğe Dönüş)"width="700" height="400" >
+            <img src = "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2019/12/28/246201-1682617389.jpg?itok=mVk1mQH1" alt = " Back to the future(Geleceğe Dönüş)"width="200" height="300" >
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li>
             Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
