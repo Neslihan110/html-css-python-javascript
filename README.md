@@ -30,6 +30,7 @@
             <li>Kiling a nightingale(Bülbülü öldürmek)</li>
             <li>Seagull(Martı)</li>
             <h2> Benim favori Filmim </h3>
+            <img src = "https://tr.web.img4.acsta.net/pictures/bzp/01/448.jpg " alt = "twd resmi ">
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li>
             Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
