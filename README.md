@@ -24,12 +24,12 @@
             <li>Black Mirror(Siyah Ayna)</li>
             <li>West world (Batı dünyası)</li>
             <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
-        <h2> 3) Sevdiğim Kitplar </h2
+        <h2> 3) Sevdiğim Kitaplar </h2
         <ol>
             <li>Cross Barn(Tatar Çölü)</li>
             <li>Kiling a nightingale(Bülbülü öldürmek)</li>
             <li>Seagull(Martı)</li>
-       <h3> My Fovarite movie </h3
+       <h3> Benim favori Filmim </h3
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li> 
                 Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
