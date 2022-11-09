@@ -32,6 +32,8 @@
             <li>Seagull(Martı)</li>
            <h2> Benim favori Kitabım </h2>
            <img src = "https://m.media-amazon.com/images/I/416DnwYeh+L._AC_SY1000_.jpg" alt = "Seagull(Martı) "width="200" height="300" >
+            <h3> Seagull(Martı)</h3>
+        <li>Martı Jonathan Livingston, Amerikalı yazar Richard Bach tarafından yazılmış, bir martının hayatını ve bize kendi sınırlarımızı aşabileceğimizi söyleyen, bir ders vermek amacıyla yazılmış masal türünde bir kitaptır. Bu kitapta Jonathan'ın hayatı, uçuş denemeleri vb. olaylar anlatılıyor </li>
             <a href ="https://www.bkmkitap.com/marti-jonathan-livingston-dorduncu-bolum-ilavesiyle" target="_blank">
            <h2> Benim favori Dizim </h2>
            <img src = "https://img.kitapyurdu.com/v1/getImage/fn:51059/wh:true/wi:800" alt = " Black Mirror(Siyah Ayna)"width="200" height="300" >
