@@ -22,6 +22,7 @@
        <h2> 2) Sevdiğim Diziler </h2
         <ol>
             <li>Black Mirror(Siyah Ayna)</li>
+           <img src = "https://img.kitapyurdu.com/v1/getImage/fn:51059/wh:true/wi:800" alt = " Black Mirror(Siyah Ayna)"width="700" height="400" >
             <li>West world (Batı dünyası)</li>
             <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
         <h2> 3) Sevdiğim Kitaplar </h2
