@@ -30,7 +30,7 @@
             <li>Kiling a nightingale(Bülbülü öldürmek)</li>
             <li>Seagull(Martı)</li>
             <h2> Benim favori Filmim </h3>
-            <img src = "<img width="700" height="400" src="https://tr.web.img4.acsta.net/pictures/bzp/01/448.jpg" alt="twd resmi">
+            <img src = "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2019/12/28/246201-1682617389.jpg?itok=mVk1mQH1" alt = " Back to the future(Geleceğe Dönüş)"width="700" height="400" >
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li>
             Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
