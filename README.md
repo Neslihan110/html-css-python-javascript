@@ -19,15 +19,11 @@
             <li>Aliens(Yaratık)</li>
             <li>Back to the future(Geleceğe Dönüş)</li>
             <li>Matrix(Matrix)</li>
-        
-        
-        <h2> 2) Sevdiğim Diziler </h2
+       <h2> 2) Sevdiğim Diziler </h2
         <ol>
             <li>Black Mirror(Siyah Ayna)</li>
             <li>West world (Batı dünyası)</li>
             <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
-        
-        
         <h2> 3) Sevdiğim Kitplar </h2
         
             <li>Cross Barn(Tatar Çölü)</li>
