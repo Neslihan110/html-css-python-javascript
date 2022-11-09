@@ -31,7 +31,7 @@
             <a target="_blank" href="https://www.goodreads.com/book/show/36229682-t-rlerin-k-keni?from_search=true&from_srp=true&qid=h1ZyA6yd6a&rank=1"><li>Seagull(Martı)</li></a>
             <li>Seagull(Martı)</li>
        <h2> Benim favori Filmim </h2
-           a target="_blank" href="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg"><li> Back to the future </li></a>
+           a target="_blank" href="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg"><li></li></a>
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li> 
                 Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
