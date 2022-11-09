@@ -21,4 +21,18 @@
             <li>Matrix(Matrix)</li>
         </ol>
         
+        <h2> 2) Sevdiğim Diziler </h2
+        <ol>
+            <li>Black Mirror(Siyah Ayna)</li>
+            <li>West world (Batı dünyası)</li>
+            <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
+        </ol>
+        
+        <h2> 3) Sevdiğim Kitplar </h2
+        <ol>
+            <li>Cross Barn(Tatar Çölü)</li>
+            <li>Kiling a nightingale(Bülbülü öldürmek)</li>
+            <li>Seagull(Martı)</li>
+        </ol>
+        
         
