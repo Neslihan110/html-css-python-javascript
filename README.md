@@ -24,14 +24,17 @@
            <li>Black Mirror(Siyah Ayna)</li>
             <li>West world (Batı dünyası)</li>
             <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
-           <h2> Benim favori Dizim </h3>
+           <h2> Benim favori Dizim </h2>
            <img src = "https://img.kitapyurdu.com/v1/getImage/fn:51059/wh:true/wi:800" alt = " Black Mirror(Siyah Ayna)"width="200" height="300" >
+           <h3> Black Mirror(Siyah Ayna)</h3>
+        <li> Bu bilimkurgu antolojisi dizisi, insanlığın en görkemli buluşlarının ve en karanlık içgüdülerinin zıtlaştığı karmaşık ve teknolojiyle dolu bir yakın geleceği konu alıyor.</li>
+        </ol>
         <h2> 3) Sevdiğim Kitaplar </h2
         <ol>
             <li>Cross Barn(Tatar Çölü)</li>
             <li>Kiling a nightingale(Bülbülü öldürmek)</li>
             <li>Seagull(Martı)</li>
-            <h2> Benim favori Filmim </h3>
+            <h2> Benim favori Filmim </h2>
             <img src = "https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2019/12/28/246201-1682617389.jpg?itok=mVk1mQH1" alt = " Back to the future(Geleceğe Dönüş)"width="700" height="400" >
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li>
