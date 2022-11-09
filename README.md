@@ -12,10 +12,8 @@
         <! -- Başlıklar -->
         <p>Merhaba.Ben Neslihan ÇAVDAR! Balıkesir'de yaşıyorum.Bilimkurgu izlemeyi seviyorum.
             Yüksek lisans Bankacılık ve Finans bölümü mezunuyum.Yazılıma kodlamaya ilgim çok fazla.Kendimi daha da geliştirmek istiyorum.
-            Kodluyoruz'un bu eğitim serisi sayesinde harika şeyler öğrendim.Öğrenmeye de devam ediyorum.Burdan patika ve kodluyoruza çok teşekkür ediyorum.</p>
+            Kodluyoruz'un bu eğitim serisi sayesinde harika şeyler öğrendim.Öğrenmeye de devam ediyorum.Burdan patika ve kodluyoruza çok teşekkür ediyorum  </p>
         <h3> İlgi Alanlarım </h3>
-        
-        
         <h2> 1) Sevdiğim Filmler</h2
         <ol>
             <li>Aliens(Yaratık)</li>
@@ -23,31 +21,4 @@
             <li>Matrix(Matrix)</li>
         </ol>
         
-        <h2> 2) Sevdiğim Diziler </h2
-        <ol>
-            <li>Black Mirror(Siyah Ayna)</li>
-            <li>West world (Batı dünyası)</li>
-            <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
-        </ol>
         
-        <h2> 3) Sevdiğim Kitplar </h2
-        <ol>
-            <li>Cross Barn(Tatar Çölü)</li>
-            <li>Kiling a nightingale(Bülbülü öldürmek)</li>
-            <li>Seagull(Martı)</li>
-        </ol>
-        
-        <h3> My Fovarite movie </h3
-            
-        <h3> Back to the future(Geleceğe Dönüş)</h3>
-        <ol>
-            <li> 
-                Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
-                zamanda yolculuğu mümkün kılan bir araba geliştirir.Bu makineyi ilk kullanan genç Marty ufak bir zamanda yolculuk yapar.
-            Fakat ufak bir hata  kaderini bile değiştirmeye yeter.Film bu şekilde gelişir.  </li>
-        </ol>
-        <! -- sıralı liste -->
-        <p>Github sayfamı ziyaret etmek için <a href="https://github.com/Neslihan110 " target="_blank">tıklayın</a>.</p>
-        <! -- link verme ve linki yeni sayfada açma -->
-    </body>
-</html>
