@@ -32,10 +32,11 @@
             <h2> Benim favori Filmim </h3>
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li>
-                Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
-                zamanda yolculuğu mümkün kılan bir araba geliştirir.Bu makineyi ilk kullanan genç Marty ufak bir zamanda yolculuk yapar.
+            Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
+            zamanda yolculuğu mümkün kılan bir araba geliştirir.Bu makineyi ilk kullanan genç Marty ufak bir zamanda yolculuk yapar.
             Fakat ufak bir hata  kaderini bile değiştirmeye yeter.Film bu şekilde gelişir.  </li>
         </ol>
+           
         <! -- sıralı liste -->
         <p>Github sayfamı ziyaret etmek için <a href="https://github.com/Neslihan110 " target="_blank">tıklayın</a>.</p>
         <! -- link verme ve linki yeni sayfada açma -->
