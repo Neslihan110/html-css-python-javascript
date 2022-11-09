@@ -29,7 +29,7 @@
             <li>Cross Barn(Tatar Çölü)</li>
             <li>Kiling a nightingale(Bülbülü öldürmek)</li>
             <li>Seagull(Martı)</li>
-       <h3> Benim favori Filmim </h3
+       <h2> Benim favori Filmim </h2
             <h3> Back to the future(Geleceğe Dönüş)</h3>
         <li> 
                 Benim favori filmim geleceğe dönüş filmidir.Geleceğe Dönüş filmin de deli dolu bir bilim adamı Dr. Brown
