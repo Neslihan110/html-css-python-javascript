@@ -30,6 +30,9 @@
             <li>Cross Barn(Tatar Çölü)</li>
             <li>Kiling a nightingale(Bülbülü öldürmek)</li>
             <li>Seagull(Martı)</li>
+           <h2> Benim favori Kitabım </h2>
+           <img src = "https://m.media-amazon.com/images/I/416DnwYeh+L._AC_SY1000_.jpg" alt = "Seagull(Martı) "width="200" height="300" >
+            <a href ="https://www.bkmkitap.com/marti-jonathan-livingston-dorduncu-bolum-ilavesiyle" target="_blank">
            <h2> Benim favori Dizim </h2>
            <img src = "https://img.kitapyurdu.com/v1/getImage/fn:51059/wh:true/wi:800" alt = " Black Mirror(Siyah Ayna)"width="200" height="300" >
            <h3> Black Mirror(Siyah Ayna)</h3>
