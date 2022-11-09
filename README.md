@@ -36,7 +36,6 @@
             zamanda yolculuğu mümkün kılan bir araba geliştirir.Bu makineyi ilk kullanan genç Marty ufak bir zamanda yolculuk yapar.
             Fakat ufak bir hata  kaderini bile değiştirmeye yeter.Film bu şekilde gelişir.  </li>
         </ol>
-           
         <! -- sıralı liste -->
         <p>Github sayfamı ziyaret etmek için <a href="https://github.com/Neslihan110 " target="_blank">tıklayın</a>.</p>
         <! -- link verme ve linki yeni sayfada açma -->
