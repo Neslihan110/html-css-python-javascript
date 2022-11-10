@@ -1,0 +1,31 @@
+ml lang="tr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="site" content="hakkimda">
+        <title>www.Patika.dev ile HTML Ödev 1</title>
+        <! -- Head bölümü -->
+    </head>
+    <body>
+        <h1>Neslihan Çavdar</h1>
+        <h2>Hakkımda</h2>
+        <! -- Başlıklar -->
+        <p>Merhaba.Ben Neslihan ÇAVDAR! Balıkesir'de yaşıyorum.Bilimkurgu izlemeyi seviyorum.
+            Yüksek lisans Bankacılık ve Finans bölümü mezunuyum.Yazılıma kodlamaya ilgim çok fazla.Kendimi daha da geliştirmek istiyorum.
+            Kodluyoruz'un bu eğitim serisi sayesinde harika şeyler öğrendim.Öğrenmeye de devam ediyorum.Burdan patika ve kodluyoruza çok teşekkür ediyorum  </p>
+        <h3> İlgi Alanlarım </h3>
+        <h2> 1) Sevdiğim Filmler</h2
+        <ol>
+            <li>Aliens(Yaratık)</li>
+            <li>Back to the future(Geleceğe Dönüş)</li>
+            <li>Matrix(Matrix)</li>
+       <h2> 2) Sevdiğim Diziler </h2
+        <ol>
+           <li>Black Mirror(Siyah Ayna)</li>
+            <li>West world (Batı dünyası)</li>
+            <li>Battlestar Galactica(Savaş yıldızı Galaksisi)</li>
+           </ol>
+        <h2> 3) Sevdiğim Kitaplar </h2
+        <ol>
+            <li>Cross Barn(Tatar Çölü)</li>
+            <li>Kiling a nightingale(Bülbülü öldürmek)</li>
+            <li>Seagull(Martı)</li>
