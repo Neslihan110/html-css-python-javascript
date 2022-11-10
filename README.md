@@ -64,7 +64,7 @@
 
 <body>
     <h1>...Mozaik Cake ...</h1>
-    <p id="introduction">Mozaik pasta lezzetinde tek tek yuvarlanarak hazırlanan mozaik topları tarifi ilginizi çekebilir... Yalnızca 6 malzeme ile hazırlanan Mozaik pasta.
+    <p id="introduction">Mozaik Cake lezzetinde tek tek yuvarlanarak hazırlanan mozaik topları tarifi ilginizi çekebilir... Yalnızca 6 malzeme ile hazırlanan Mozaik pasta.
         Kırık bir kalbi iyileştirmek için her zaman mükemmel bir pasta vardır ve sdece peri elleri olanlar sihirli dokunuşlarla lezzetli pastalar üretebilir.Sende sihirli bir pasta üretmeye ne dersin ?</p>
     <p><b>Tarif:</b> Neslihan Çavdar</p>
     <div id="content">
@@ -74,7 +74,7 @@
             <span class="info"><span>Buzdolabında bekletme Süresi:</span> 30 dk </span>
         </div>
         <div>
-            <span class="heading">Mozaik Pasta Tarifi için Malzemeler</span>
+            <span class="heading">Mozaik Cake Tarifi için Malzemeler</span>
             <ul>
                 <li>300 gram petibör bisküvi</li>
                 <li>1 su bardağı süt  </li>
@@ -85,7 +85,7 @@
             </ul>
         </div>
         <div>
-            <span class="heading">Mozaik Pasta Tarifi (Videolu)'un Yapılışı:</span>
+            <span class="heading">Mozaik Cake Tarifi (Videolu)'un Yapılışı:</span>
             <ol>
                 <li>Mozaik pasta için öncelikle bisküvileri kırıyoruz, kırarken de fazla ufalamamaya dikkat ediyoruz </li>
                 <li>Margarin veya tereyağını bir tavada eritiyoruz.</li>
