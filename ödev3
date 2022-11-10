@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Page</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h1>...Mozaik Pasta...</h1>
+    <p id="introduction">Mozaik pasta lezzetinde tek tek yuvarlanarak hazırlanan mozaik topları tarifi ilginizi çekebilir... Yalnızca 6 malzeme ile hazırlanan Mozaik pasta.
+        Kırık bir kalbi iyileştirmek için her zaman mükemmel bir pasta vardır ve sdece peri elleri olanlar sihirli dokunuşlarla lezzetli pastalar üretebilir.Sende sihirli bir pasta üretmeye ne dersin ?</p>
+    <p><b>Tarif:</b> Neslihan Çavdar</p>
+    <div id="content">
+        <div id="title">
+            <span class="info"><span>Kaç Kişilik:</span>4-6 kişilik</span>
+            <span class="info"><span>Hazırlanma Süresi:</span>20 dakika</span>
+            <span class="info"><span>Buzdolabında bekletme Süresi:</span> 30 dk </span>
+        </div>
+        <div>
+            <span class="heading">Mozaik Pasta Tarifi için Malzemeler</span>
+            <ul>
+                <li>300 gram petibör bisküvi</li>
+                <li>1 su bardağı süt  </li>
+                <li>3 yemek kaşığı kakao</li>
+                <li>5 yemek kaşığı şeker</li>
+                <li>3 yemek kaşığı eritilmiş tereyağı/margarin  </li>
+                <li>1 su bardağı ceviz veya fındık (isteğe bağlı)</li>
+            </ul>
+        </div>
+        <div>
+            <span class="heading">Mozaik Pasta Tarifi (Videolu)'un Yapılışı:</span>
+            <ol>
+                <li>Mozaik pasta için öncelikle bisküvileri kırıyoruz, kırarken de fazla ufalamamaya dikkat ediyoruz </li>
+                <li>Margarin veya tereyağını bir tavada eritiyoruz.</li>
+                <li>Eriyen yağı, sütü, şekeri ve kakaoyu bir kabın içerisinde güzelce karıştırıyoruz.</li>
+                <li>Elde ettiğimiz karışımı, kırmış olduğumuz bisküvilerin üzerine döküyoruz veya tam tersi bisküvileri bu karışımın içine ekleyebilirsiniz.
+                 Bu aşamada isteğe göre ceviz, fındık veya Antep fıstığı da ilave edebilirsiniz</li>
+                <li>Hazırladığınız çikolatayı varsa alüminyum hazır bir kare tepsiye, yoksa kenarlarından taşarak yağlı
+                    kağıt yerleştirdiğiniz küçük bir tepsiye dökün.</li>
+                <li>Daha sonra bisküvileri ezmemeye özen göstererek, iyice karıştırıyoruz.</li>
+                <li>Karışımı streç folyo arasına alarak, elimizle rulo şeklini veriyoruz veya uzun ince kabınız varsa onun içine de yerleştirebilirsiniz daha düzgün şekilli oluyor.</li>
+                <li>Servis etmeden önce, buzlukta 2-3 saat kadar dinlenmeye bırakıyoruz.Daha sonra dilimleyerek servis ediyoruz.</li>
+            </ol>
+        </div>
+        <span class="Afiyet">Afiyet olsun</span>
+    </div>
+        <! -- sıralı liste -->
+        <p>Github sayfamı ziyaret etmek için <a href="https://github.com/Neslihan110 " target="_blank">tıklayın</a>.</p>
+        <! -- link verme ve linki yeni sayfada açma -->
+    </body>
+</html>
