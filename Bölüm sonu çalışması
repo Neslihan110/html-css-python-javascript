@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa | Alıştırma</title>
+</head>
+<body>
+    
+    <!-- Navbar - Start -->
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html" target="_blank">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html" target="_blank">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html" target="_blank">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+<!-- Navbar - End -->
+
+<!-- Content - Start -->
+<section>
+    <!-- Articles - Start -->
+    <article>
+        <h2>Birinci Yazi</h2>
+            <p>Lorem ipsum dolor sit amet consectetur.</p>
+            <p>Molestiae iste vitae atque aperiam vero?</p>
+            <p>Iure quidem quae blanditiis ratione nihil.</p>
+            <p>Fugiat alias reprehenderit non incidunt iure.</p>
+        <img src="https://picsum.photos/id/297/200/300" alt="Picsum Photos">
+        <ol>
+            <li>Lorem, ipsum dolor.</li>
+            <li>Fugit, aliquam quaerat.</li>
+            <li>Error, distinctio odio.</li>
+        </ol>
+        <hr>
+    </article>
+    <article>
+        <h2>İkinci Yazi</h2>
+            <p>Lorem ipsum dolor sit amet consectetur.</p>
+            <p>Repudiandae incidunt possimus molestiae suscipit laborum.</p>
+            <p>Iure laborum inventore culpa illo numquam.</p>
+            <p>Dolore quam iusto id iure saepe?</p>
+        <img src="https://picsum.photos/id/397/200/300" alt="Picsum Photos">
+        <ul>
+            <li>Lorem, ipsum dolor.</li>
+            <li>Vitae, nisi. Reprehenderit?</li>
+            <li>Quae, ut quis.</li>
+        </ul>
+        <hr>
+    </article>
+    <article>
+        <h2>Üçüncü Yazi</h2>
+            <p>Lorem ipsum dolor sit amet consectetur.</p>
+            <p>Odit hic pariatur ad quae. Numquam.</p>
+            <p>Quae natus velit exercitationem quisquam expedita?</p>
+            <p>Praesentium a eligendi assumenda reiciendis eveniet!</p>
+        <img src="https://picsum.photos/id/47/200/300" alt="Picsum Photos">
+        <hr>
+    </article>
+
+    <!-- Articles - End -->
+</section>
+<!-- Content End -->
+
+<!-- Footer - Start -->
+<footer>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html" target="_blank">Ana Sayfa</a>
+            </li>
+            <li>
+                <a href="about-us.html" target="_blank">Hakkımızda</a>
+            </li>
+            <li>
+                <a href="contact.html" target="_blank">İletişim</a>
+            </li>
+        </ul>
+    </nav>
+</footer>
+<!-- Footer - End -->
+
+</body>
+</html>
