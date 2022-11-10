@@ -63,44 +63,44 @@
 </head>
 
 <body>
-    <h1>...Çikolata Küpleri...</h1>
-    <p id="introduction">çikolatalı ve şam fıstıklı lezzetler... Yalnızca 4 malzeme ile hazırlanan çikolata küpleri,
-        renkli kağıtlarla
-        veya kürdan batırılarak servis edilir. Özellikle kalabalık sofralarda yer verilen çikolata küpleri, doğum günü
-        gibi özel etkinliklerde de sunulabilir.</p>
-    <p><b>Tarif:</b> Rukiye Beyza Sarıkaya</p>
+    <h1>...Mozaik Pasta...</h1>
+    <p id="introduction">Mozaik pasta lezzetinde tek tek yuvarlanarak hazırlanan mozaik topları tarifi ilginizi çekebilir... Yalnızca 6 malzeme ile hazırlanan Mozaik pasta.
+        Kırık bir kalbi iyileştirmek için her zaman mükemmel bir pasta vardır ve sdece peri elleri olanlar sihirli dokunuşlarla lezzetli pastalar üretebilir.Sende sihirli bir pasta üretmeye ne dersin ?</p>
+    <p><b>Tarif:</b> Neslihan Çavdar</p>
     <div id="content">
         <div id="title">
-            <span class="info"><span>Kaç Kişilik:</span>4 kişilik</span>
-            <span class="info"><span>Hazırlanma Süresi:</span>30 dakika</span>
-            <span class="info"><span>Pişirme Süresi:</span>10 dakika</span>
+            <span class="info"><span>Kaç Kişilik:</span>4-6 kişilik</span>
+            <span class="info"><span>Hazırlanma Süresi:</span>20 dakika</span>
+            <span class="info"><span>Buzdolabında bekletme Süresi:</span> 30 dk </span>
         </div>
         <div>
-            <span class="heading">Çikolata Küpleri Tarifi İçin Malzemeler</span>
+            <span class="heading">Mozaik Pasta Tarifi için Malzemeler</span>
             <ul>
-                <li>350 gr bitter çikolatalı</li>
-                <li>150 ml krema</li>
-                <li>1 çorba kaşığı tereyağı</li>
-                <li>150 gr şamfıstık (Badem veya fındıkta olabilir)</li>
+                <li>300 gram petibör bisküvi</li>
+                <li>1 su bardağı süt  </li>
+                <li>3 yemek kaşığı kakao</li>
+                <li>5 yemek kaşığı şeker</li>
+                <li>3 yemek kaşığı eritilmiş tereyağı/margarin  </li>
+                <li>1 su bardağı ceviz veya fındık (isteğe bağlı)</li>
             </ul>
         </div>
         <div>
-            <span class="heading">Çikolata Küpleri Nasıl Yapılır?</span>
+            <span class="heading">Mozaik Pasta Tarifi (Videolu)'un Yapılışı:</span>
             <ol>
-                <li>Bitter çikolatayı benmari usulü eritin.</li>
-                <li>Eriyen çikolatanın üzerine krema ve tereyağını ekleyip iyice karıştırıp tencereyi bir tezgaha alın.
-                </li>
-                <li>Şamfıstıkları havanda çok az dövüp irili ufaklı parçalara bölün.</li>
-                <li>Ufalanan fıstıkları çikolatalı karışıma ekleyip karıştırın.</li>
+                <li>Mozaik pasta için öncelikle bisküvileri kırıyoruz, kırarken de fazla ufalamamaya dikkat ediyoruz </li>
+                <li>Margarin veya tereyağını bir tavada eritiyoruz.</li>
+                <li>Eriyen yağı, sütü, şekeri ve kakaoyu bir kabın içerisinde güzelce karıştırıyoruz.</li>
+                <li>Elde ettiğimiz karışımı, kırmış olduğumuz bisküvilerin üzerine döküyoruz veya tam tersi bisküvileri bu karışımın içine ekleyebilirsiniz.
+                 Bu aşamada isteğe göre ceviz, fındık veya Antep fıstığı da ilave edebilirsiniz</li>
                 <li>Hazırladığınız çikolatayı varsa alüminyum hazır bir kare tepsiye, yoksa kenarlarından taşarak yağlı
                     kağıt yerleştirdiğiniz küçük bir tepsiye dökün.</li>
-                <li>Buzdolabında iki saat bekletin.</li>
-                <li>Çikolatayı kalıptan çıkartın. Kare parçalara bölün.</li>
+                <li>Daha sonra bisküvileri ezmemeye özen göstererek, iyice karıştırıyoruz.</li>
+                <li>Karışımı streç folyo arasına alarak, elimizle rulo şeklini veriyoruz veya uzun ince kabınız varsa onun içine de yerleştirebilirsiniz daha düzgün şekilli oluyor.</li>
+                <li>Servis etmeden önce, buzlukta 2-3 saat kadar dinlenmeye bırakıyoruz.Daha sonra dilimleyerek servis ediyoruz.</li>
             </ol>
         </div>
         <span class="Afiyet">Afiyet olsun</span>
     </div>
-
         <! -- sıralı liste -->
         <p>Github sayfamı ziyaret etmek için <a href="https://github.com/Neslihan110 " target="_blank">tıklayın</a>.</p>
         <! -- link verme ve linki yeni sayfada açma -->
